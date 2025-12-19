@@ -1,4 +1,4 @@
-Student Performance Analysis & Academic Reporting (Year 1–11)
+Student Performance Analysis & Academic Reporting (Year 7)
 
 ## 📌 Project Overview
 This project analyzes student academic performance data using real-world school spreadsheet structures.  
